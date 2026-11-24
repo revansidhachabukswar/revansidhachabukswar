@@ -1,7 +1,6 @@
 # Hi there, I'm Revansidha Chabukswar 👋
 
-🎓 MCA student at NMIET Pune  
-🎓 BCA Graduate (9.04 CGPA) from PAH Solapur University  
+🎓 MCA student at NMIET Pune   
 ❤️ Passionate about Data Science, AI/ML, Data Analysis & Data Engineering
 
 ---
@@ -12,7 +11,7 @@ I am a dedicated learner currently pursuing my MCA and exploring the fields of D
 I enjoy solving real-world problems through data and technology.
 
 - 🔹 Interested in AI/ML, Data Science & Data Engineering
-- 🔹 Hands-on experience with Python, SQL, Power BI and Java
+- 🔹 Hands-on experience with Python, SQL, Power BI
 - 🔹 Love building real-world projects
 - 🔹 Exploring data-driven technologies and analytics
 - 🔹 Learning modern Automation technologies
